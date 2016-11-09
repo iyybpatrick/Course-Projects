@@ -1,0 +1,6 @@
+Five projects are five assignments for the Parallel programming course. 
+
+Every assignments contribute 12% in the final assesement.
+
+final project contribute 40% in the final assesement.
+

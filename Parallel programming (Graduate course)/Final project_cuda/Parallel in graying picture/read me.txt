@@ -1,0 +1,1 @@
+This part is parallel acceleration for transforming RGB picture to gray scale image.

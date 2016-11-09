@@ -1,0 +1,3 @@
+These two projects are two assignments for the Compliling Theories course. 
+
+They received a score of 95 (out of 100), and contribute 20% in the final assesement.

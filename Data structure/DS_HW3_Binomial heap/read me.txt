@@ -1,0 +1,10 @@
+Second assignment is about Binomial heap.
+Realized function are listed as follow:
+1) Add node
+2) Add a group of nodes to binomial heap
+3) Decrease node's value
+4) Delete node
+5) calculate the total number of nodes
+
+
+Code was tested with test 1~6, which finally gain 100 score.

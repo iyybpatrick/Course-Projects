@@ -1,0 +1,3 @@
+These three projects are three assignments for the Data Structure course. 
+
+They all received a score of 100 (out of 100), and contribute 45% in the final assesement.

@@ -1,0 +1,5 @@
+Second assignment is about threaded binary tree.
+
+
+
+Code was tested with hundreds of lines of test data, which finally gain 100 score.
