@@ -1,0 +1,3 @@
+Among these ten small projects, some are assignments for the Operating Systems course, some are for personal interest.
+
+They received a score of 97 (out of 100), and contribute 20% in the final assesement.
